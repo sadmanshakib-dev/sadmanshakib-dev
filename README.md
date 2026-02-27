@@ -55,6 +55,6 @@
 
 <p align="center">
   <a href="mailto:sadmanshakib346@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sadmanshakib346%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/sadmanshakib346@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
