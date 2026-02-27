@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sadman Shakib</h1>
+<h1 align="center">Sadman Shakib</h1>
 <h3 align="center">Aspiring Full Stack Web Developer | CSE Student</h3>
 
 <p align="center">
@@ -7,13 +7,13 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 CSE Student  
-- 💻 Learning Full Stack Web Development  
-- 🌱 Currently improving JavaScript & Backend skills  
-- 🎯 Goal: Become a Professional Software Developer  
-
+- 🎓 Computer Science student specializing in Full Stack Web Development  
+- 💻 Developing modern, responsive, and performance-focused web applications  
+- 🧠 Strengthening backend architecture knowledge and analytical thinking  
+- ⚙️ Emphasizing clean code, maintainability, and scalable solutions  
+- 🚀 Preparing for impactful roles in professional software development  
 ---
 
 ## 🛠 Tech Stack
