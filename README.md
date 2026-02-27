@@ -34,3 +34,7 @@
 ---
 
 ⭐ “Code. Learn. Build. Repeat.”
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/sadman-shakib-8444703b3/
