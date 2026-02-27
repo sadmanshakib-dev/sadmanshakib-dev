@@ -36,10 +36,14 @@
 ⭐ “Code. Learn. Build. Repeat.”
 ---
 
+### Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sadman-shakib-8444703b3/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" />
   </a>
-  <br/>
-  <sub>Sadman Shakib</sub>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sadman-shakib-8444703b3/" target="_blank">
+    Sadman Shakib
+  </a>
 </p>
