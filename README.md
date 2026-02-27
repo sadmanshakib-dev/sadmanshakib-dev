@@ -36,14 +36,14 @@
 ⭐ “Code. Learn. Build. Repeat.”
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sadman-shakib-8444703b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sadman%20Shakib-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <i>Open to internships • Collaboration • Learning opportunities</i>
+  <sub>Open to internships • Web Development opportunities • Collaboration</sub>
 </p>
