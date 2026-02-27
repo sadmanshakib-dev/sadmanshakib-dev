@@ -43,15 +43,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sadman%20Shakib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
----
-
-## 🤝 Connect with
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sadman-shakib-8444703b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sadman%20Shakib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <a href="mailto:sadmanshakib346@gmail.com">
