@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sadman Shakib</h1>
+<h3 align="center">Aspiring Full Stack Web Developer | CSE Student</h3>
 
-<!--
-**sadmanshakib-dev/sadmanshakib-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;Building+Responsive+Web+Applications;Learning+Something+New+Everyday+🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 CSE Student  
+- 💻 Learning Full Stack Web Development  
+- 🌱 Currently improving JavaScript & Backend skills  
+- 🎯 Goal: Become a Professional Software Developer  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadmanshakib-dev&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadmanshakib-dev&theme=tokyonight" />
+</p>
+
+---
+
+⭐ “Code. Learn. Build. Repeat.”
