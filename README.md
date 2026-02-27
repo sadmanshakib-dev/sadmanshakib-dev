@@ -72,7 +72,7 @@
 </p>
 
 
-## 🤝 Connect with
+## 📬 Professional Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sadman-shakib-8444703b3/" target="_blank">
@@ -85,5 +85,8 @@
     <img src="https://img.shields.io/badge/sadmanshakib346@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-  ⭐ <i>Code. Learn. Build. Repeat.</i>
+---
+
+<p align="center">
+  ⭐ <b><i>Build with purpose. Develop with discipline. Grow with consistency.</i></b>
 </p>
