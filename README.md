@@ -55,18 +55,18 @@ Actively building real-world projects to strengthen both frontend and backend ex
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sadman-shakib-8444703b3/" target="_blank">
-    <img src="https://img.shields.io/badge/Sadman%20Shakib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" />
+  </a>
+  <a href="https://www.linkedin.com/in/sadman-shakib-8444703b3/" target="_blank">
+    <img src="https://img.shields.io/badge/SADMAN%20SHAKIB-0A66C2?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:sadmanshakib346@gmail.com">
-    <img src="https://img.shields.io/badge/sadmanshakib346@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" />
   </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ <i>Code with purpose. Build with structure. Grow with consistency.</i>
+  <a href="mailto:sadmanshakib346@gmail.com">
+    <img src="https://img.shields.io/badge/sadmanshakib346@gmail.com-D14836?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
