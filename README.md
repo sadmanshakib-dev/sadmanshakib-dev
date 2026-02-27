@@ -18,9 +18,46 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
+
+- Responsive Design  
+- Modern UI Practices  
+- DOM Manipulation  
+
+---
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- REST API Fundamentals  
+- Server-side Logic  
+- Basic Authentication Concepts  
+
+---
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+- Basic Database Design  
+- CRUD Operations  
+
+---
+
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Version Control  
+- Project Structuring  
+- Clean Code Practices  
 
 ---
 
