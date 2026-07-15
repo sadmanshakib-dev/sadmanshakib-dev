@@ -264,18 +264,6 @@ AI-powered Sustainability Intelligence Platform
 
 ---
 
-## 🏠 RentoVerse
-
-Rental Management System
-
-- Property Listing
-- Booking System
-- User Authentication
-- Next.js
-- PostgreSQL
-
----
-
 ## 📌 More Projects Coming Soon...
 
 I enjoy building AI-powered solutions that solve real-world problems.
@@ -293,31 +281,11 @@ I enjoy building AI-powered solutions that solve real-world problems.
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadmanshakib-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadmanshakib-dev&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sadmanshakib-dev&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -418,7 +386,7 @@ Deployment
 
 <p align="center">
 
-<a href="mailto:sadmanshakib346@gmail.com">
+<a href="mailto:sadman241-15-019@diu.edu.bd">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
