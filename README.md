@@ -293,17 +293,19 @@ I enjoy building AI-powered solutions that solve real-world problems.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sadmanshakib-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=sadmanshakib-dev&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sadmanshakib-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadmanshakib-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadmanshakib-dev&theme=tokyo-night"/>
 </p>
----
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sadmanshakib-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 # 📌 Development Workflow
 
