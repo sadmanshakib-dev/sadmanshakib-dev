@@ -247,7 +247,8 @@ AI-powered Sustainability Intelligence Platform
 
 ## 🚦 Traffic Rule Analyzer
 
-- Java + Spring Boot Backend
+- C, Flex, Bison Backend
+- HTML, CSS, JavaScript Frontend
 - Rule Detection
 - Violation Analysis
 - Report Generation
@@ -259,8 +260,9 @@ AI-powered Sustainability Intelligence Platform
 - Appointment Management
 - Patient Records
 - Doctor Management
-- Spring Boot
-- PostgreSQL
+- Java, Spring Boot Backend
+- H2 Database
+- HTML, CSS, JavaScript Frontend
 
 ---
 
