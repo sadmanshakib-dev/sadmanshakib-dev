@@ -213,64 +213,15 @@ Although my primary focus is AI & Machine Learning, I also build modern web appl
 
 ---
 
-# 📂 Featured Projects
+# 🚀 What I'm Working On
 
-## 🤖 Android Malware Detection using Deep Learning
-
-- CNN-based malware classifier
-- Feature Engineering
-- SHAP & LIME Explainability
-- High Accuracy Prediction
-
+- 🤖 Building Machine Learning and Deep Learning projects
+- 📊 Exploring Data Science and Predictive Analytics
+- 🧠 Learning Explainable AI (SHAP & LIME)
+- 👁️ Developing Computer Vision applications
+- ☁️ Exploring AI Deployment & MLOps
 ---
 
-## 🌱 EcoTwin Nexus
-
-AI-powered Sustainability Intelligence Platform
-
-- Carbon Emission Prediction
-- Energy Consumption Forecasting
-- AI Recommendation Engine
-- Environmental Health Score
-- ESG Dashboard
-
----
-
-## 🎮 AI Powered Game Server Cluster Optimizer
-
-- Intelligent Resource Allocation
-- Predictive Scaling
-- Cost Optimization
-- AI-based Performance Analysis
-
----
-
-## 🚦 Traffic Rule Analyzer
-
-- C, Flex, Bison Backend
-- HTML, CSS, JavaScript Frontend
-- Rule Detection
-- Violation Analysis
-- Report Generation
-
----
-
-## 🏥 DIU Medicare
-
-- Appointment Management
-- Patient Records
-- Doctor Management
-- Java, Spring Boot Backend
-- H2 Database
-- HTML, CSS, JavaScript Frontend
-
----
-
-## 📌 More Projects Coming Soon...
-
-I enjoy building AI-powered solutions that solve real-world problems.
-
----
 # 📊 GitHub Analytics
 
 <p align="center">
