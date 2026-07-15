@@ -274,16 +274,14 @@ I enjoy building AI-powered solutions that solve real-world problems.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=sadmanshakib-dev&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sadmanshakib-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sadmanshakib-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadmanshakib-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadmanshakib-dev&theme=tokyo-night"/>
 </p>
 
 ---
-
 # 📈 Contribution Graph
 
 <p align="center">
