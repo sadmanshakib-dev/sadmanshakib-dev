@@ -159,13 +159,13 @@ Although my primary focus is AI & Machine Learning, I also build modern web appl
 
 | Skill | Level |
 |-------|--------|
-| Python | ████████████████████ 95% |
-| Machine Learning | ██████████████████ 90% |
-| Deep Learning | ████████████████░ 82% |
-| Data Science | ███████████████░░ 80% |
-| Computer Vision | ██████████████░░░ 76% |
-| Backend Development | ██████████████░░░ 75% |
-| Frontend Development | ████████████░░░░░ 68% |
+| Python | ████████████████████ 90% |
+| Machine Learning | ██████████████████ 80% |
+| Deep Learning | ████████████████░ 72% |
+| Data Science | ███████████████░░ 75% |
+| Computer Vision | ██████████████░░░ 60% |
+| Backend Development | ██████████████░░░ 90% |
+| Frontend Development | ████████████░░░░░ 95% |
 
 ---
 
