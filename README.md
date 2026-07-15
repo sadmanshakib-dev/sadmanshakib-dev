@@ -297,23 +297,23 @@ I enjoy building AI-powered solutions that solve real-world problems.
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadmanshakib-dev&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadmanshakib-dev&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadmanshakib-dev&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadmanshakib-dev&theme=tokyonight"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadmanshakib-dev&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadmanshakib-dev&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadmanshakib-dev&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadmanshakib-dev&theme=tokyonight"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadmanshakib-dev&theme=tokyonight&utcOffset=6"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadmanshakib-dev&theme=tokyonight&utcOffset=6"/>
 
 </p>
 
